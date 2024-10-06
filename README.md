@@ -40,4 +40,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [shadcn/ui](https://ui.shadcn.com/)
 - [aceternity ui](https://ui.aceternity.com/)
 - [flowbite ui](https://flowbite.com//)
--
